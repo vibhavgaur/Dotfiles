@@ -2,6 +2,7 @@
 call plug#begin('~/.vim/externalPlugins')
 
 Plug 'preservim/nerdcommenter'
+Plug 'https://github.com/jiangmiao/auto-pairs.git'
 
 call plug#end()
 
