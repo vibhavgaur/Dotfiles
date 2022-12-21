@@ -10,6 +10,7 @@ set tw=0
 
 set number
 set relativenumber
+set hlsearch
 
 syntax on
 
