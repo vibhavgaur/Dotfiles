@@ -6,7 +6,9 @@ Plug 'https://github.com/jiangmiao/auto-pairs.git'
 
 call plug#end()
 
-set tw=0
+set tw=0                " Text wrap limit (0 means no wrap)
+set tabstop=4           " Set tab width to 4 spaces
+set shiftwidth=4        " Move 4 spaces when indenting with '>'
 
 set number
 set relativenumber
